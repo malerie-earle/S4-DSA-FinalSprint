@@ -1,0 +1,14 @@
+.treeDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50vw;
+  height: min-content;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border-radius: 5px;
+  overflow: visible;
+  margin-top: 50px;
+  border: 2px white solid;
+}
